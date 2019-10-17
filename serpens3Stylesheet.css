@@ -1,0 +1,121 @@
+.divBox{
+	background-color:grey;
+	height: 800px;
+	width:600px
+}
+
+
+#counterTimer{
+
+//background-color:yellow;
+height: 100px;
+width: 100%;
+
+//text-align: center;
+//margin: 10px 10px 10px 30px; /*top right bottom left*/
+}
+
+
+.boxes{
+  background: white;
+  float: left;
+
+ height: 75px;
+  width: 23%;
+ text-align:center;
+ vertical-align: middle;
+
+ line-height: 75px;
+ border-top: 5px solid black;
+ border-left: 5px solid black;
+ border-right: 5px solid black;
+ border-bottom: 5px solid black;
+ //box-sizing: border-box;
+ //top: 0px;
+
+ border-radius: 20px;
+ margin: 10px 10px 10px 20px; /*top right bottom left*/
+
+
+  padding: 10px;
+
+ }
+
+#boxTwo{
+	background-image:url("img-4264.jpg");
+	color:red;
+	background: white;
+
+}
+
+
+.answers{
+ background-color:white;
+ color:black;
+ padding:20px;
+ text-align:center;
+ border-top: 8px solid red;
+ border-left: 8px solid red;
+ border-right: 8px solid red;
+ border-bottom: 8px solid red;
+ border-radius: 20px;
+ margin: 10px 10px 10px 10px; /*top right bottom left*/
+}
+
+.button{
+	background-color: white;
+	color: black;
+	font-family: Times Roman;
+	font-size: 100%;
+	font-weight: bold;
+	border-color: white;
+}
+
+.responseButton{
+	background-color: red;
+	color: black;
+	font-family: Times Roman;
+	font-size: 100%;
+	font-weight: bold;
+	border-color: red;
+}
+
+.startButton{
+	background-color: yellow;
+	color: black;
+	font-family: Times Roman;
+	font-size: 100%;
+	font-weight: bold;
+	border-color: yellow;
+
+
+}
+
+
+#questionOne{
+ background-color:yellow;
+ text-align: center;
+ padding:20px;
+ border-top: 8px dotted black;
+ border-left: 8px dotted black;
+ border-right: 8px dotted black;
+ border-bottom: 8px dotted black;
+ margin: 10px 10px 10px 10px; /*top right bottom left*/
+ border-radius: 20px;
+ clear: left;
+ }
+
+#responseNext{
+ background-color:red;
+ text-align: center;
+ color: white;
+ padding:20px;
+ border-top: 8px dotted yellow;
+ border-left: 8px dotted yellow;
+ border-right: 8px dotted yellow;
+ border-bottom: 8px dotted yellow;
+ margin: 60px 10px 10px 10px; /*top right bottom left*/
+ border-radius: 20px;
+ //display: none;
+ //visibility: hidden;
+ }
